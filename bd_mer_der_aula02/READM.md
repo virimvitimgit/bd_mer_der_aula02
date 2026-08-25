@@ -1,3 +1,6 @@
+# App de Corridas
+
+## Dicionário de Dados
 | Entidade | Atributo | Tipo | Tamanho | Descrição |
 |----------|:--------:|:----:|:-------:|----------:|
 | motoristas | id | int | 11 | chave primária |
