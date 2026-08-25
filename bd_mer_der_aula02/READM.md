@@ -1,4 +1,6 @@
 # App de Corridas
+## MER DER Lógico
+![MER DER Lógico](<MER DER Lógico.drawio.png>)
 
 ## Dicionário de Dados
 | Entidade | Atributo | Tipo | Tamanho | Descrição |
