@@ -9,8 +9,8 @@
 | motoristas | distancia | int | 25 | números que representam a distancia do motorista em Metros |
 | motoristas | número_de_corridas | decimal | 20 | quantidade de corridas realizadas por cada motorista |
 | rotas | id | int | 11 | chave primária |
-| rotas |
-| rotas |
+| rotas | condição | varchar | 100 | descrição sobre a condição atual da rota |
+| rotas | distancia_em_quilometros | int |
 | rotas |
 | rotas |
 | corridas | id | int | 11 | chave primária |
