@@ -10,9 +10,9 @@
 | motoristas | número_de_corridas | decimal | 20 | quantidade de corridas realizadas por cada motorista |
 | rotas | id | int | 11 | chave primária |
 | rotas | condição | varchar | 100 | descrição sobre a condição atual da rota |
-| rotas | distancia_em_quilometros | int |
-| rotas |
-| rotas |
+| rotas | distancia_em_quilometros | int | 40 | números inteiros que representam a distancia em quilometros de cada rota |
+| rotas | recomendação | varchar | 100 | recomendação para os motoristas sobre a rota |
+| rotas | velocidade_em_KM/h | decimal | 30 | velocidade do motorista durante a corrida |
 | corridas | id | int | 11 | chave primária |
 | corridas | id_motoristas | int | 11 | chave estrangeira, referencia: Motoristas(id) |
 | corridas | id_rotas |  int | 11 | chave primária | chave estrangeira, referencia: Rotas(id) |
