@@ -1,4 +1,4 @@
-id;id_motoristas;id_rotas;tempo_decorrido;destino;valor;avaliação_em_estrelas;partida;tamanho_do_percuros
+id,id_motoristas,id_rotas,tempo_decorrido,destino,valor,avaliação_em_estrelas,partida,tamanho_do_percuros
 1,5,1,0.02,São Pereira, R$ 50.04 ,1,São Viscenso,1.99
 2,3,2,0.05,São Viscenso, R$ 50.10 ,5,Ouro Frio,5.00
 3,1,3,0.50,Divisa Nova, R$ 51.00 ,5,São Pereira,10.00
