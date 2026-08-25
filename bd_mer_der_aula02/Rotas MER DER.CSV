@@ -1,7 +1,7 @@
-id;condição;distancia_em_quilometros;recomendação;velocidade_em_KM/h
-1;Interditada;1988;não escolha;100
-2;Interditada;5000;não escolha;100
-3;Obstruida;10000;escolha apenas se tiver tempo;20
-4;Operante;20000;melhor escolha;80
-5;Operante;20000;boa escolha;75
-6;Necessita de Manutenção;14000;escolha se possuir um carro resistente;60
+id,condiÃ§Ã£o,distancia_em_quilometros,recomendaÃ§Ã£o,velocidade_em_KM/h
+1,Interditada,1988,nÃ£o escolha,100
+2,Interditada,5000,nÃ£o escolha,100
+3,Obstruida,10000,escolha apenas se tiver tempo,20
+4,Operante,20000,melhor escolha,80
+5,Operante,20000,boa escolha,75
+6,Necessita de ManutenÃ§Ã£o,14000,escolha se possuir um carro resistente,60
