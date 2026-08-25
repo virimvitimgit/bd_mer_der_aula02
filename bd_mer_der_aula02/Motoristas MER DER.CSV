@@ -1,4 +1,4 @@
-id,nome,avaliação_em_estrelas;distancia;número_de_corridas
+id,nome,avaliação_em_estrelas,distancia,número_de_corridas
 1,Juberto Menendes,4.00,74000,124
 2,Remi Mal da Silva,0.50,5,357
 3,Felipe Augustus,3.00,200,51
