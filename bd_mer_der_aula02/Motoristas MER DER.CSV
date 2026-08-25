@@ -1,7 +1,7 @@
-id;nome;avaliação_em_estrelas;distancia;número_de_corridas
-1;Juberto Menendes;4,00;74000;124
-2;Remi Mal da Silva;0,50;5;357
-3;Felipe Augustus;3,00;200;51
-4;Guilherme Maurício;2,00;1000;26
-5;Bruno Barros;0,10;29030;2
-6;Gabriel Arrodes;1,00;970;95
+id,nome,avaliaÃ§Ã£o_em_estrelas;distancia;nÃºmero_de_corridas
+1,Juberto Menendes,4.00,74000,124
+2,Remi Mal da Silva,0.50,5,357
+3,Felipe Augustus,3.00,200,51
+4,Guilherme MaurÃ­cio,2.00,1000,26
+5,Bruno Barros,0.10,29030,2
+6,Gabriel Arrodes,1.00,970,95
