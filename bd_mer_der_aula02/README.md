@@ -28,9 +28,9 @@
 | corridas | tamanho_do_percurso | int | 30 | números reais, que representam o tamanho do percurso em KM |
 
 ## Links para os Arquivos .CSV
- - [Corridas MER DER.CSV](Corridas MER DER.CSV) 
- - [Motoristas MER DER.CSV](Motoristas MER DER.CSV)
- - [Rotas MER DER.CSV](Rotas MER DER.CSV)
+ - [Corridas MER DER.CSV](Corridas_MER_DER.CSV) 
+ - [Motoristas MER DER.CSV](Motoristas_MER_DER.CSV)
+ - [Rotas MER DER.CSV](Rotas_MER_DER.CSV)
 <!-- - <a href="bd_mer_der_aula02/Corridas MER DER.CSV">Corridas.csv</a>
 - <a href="bd_mer_der_aula02/Motoristas MER DER.CSV">Motoristas.csv</a>
 - <a href="bd_mer_der_aula02/Rotas MER DER.CSV">Rotas.csv</a> -->
