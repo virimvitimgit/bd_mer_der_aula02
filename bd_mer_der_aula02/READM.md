@@ -26,3 +26,8 @@
 | corridas | avaliação_em_estrelas | decimal | 10 | numeros inteiros que representam a nota da corrida de 1-5 |
 | corridas | partida | varchar | 50 | local de partida da corrida |
 | corridas | tamanho_do_percurso | int | 30 | números reais, que representam o tamanho do percurso em KM |
+
+## Links para os Arquivos .CSV
+- [Corridas MER DER.CSV](Corridas MER DER.CSV)
+- [Motoristas MER DER.CSV](Motoristas MER DER.CSV)
+- [Rotas MER DER.CSV](Rotas MER DER.CSV)
